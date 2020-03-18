@@ -41,6 +41,10 @@ body {
   justify-content: center;
 }
 
+.panel.open {
+  flex: 5;
+}
+
 .panel1 { 
   background-image:url(../images/panel1.jpg); 
 }
@@ -70,6 +74,22 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.panel > *:first-child {
+  transform: translateY(-100%);
+}
+
+.panel.open-active > *:first-child {
+  transform: translateY(0);
+}
+
+.panel > *:last-child {
+  transform: translateY(100%);
+}
+
+.panel.open-active > *:last-child {
+  transform: translateY(0);
 }
 
 .panel p {
