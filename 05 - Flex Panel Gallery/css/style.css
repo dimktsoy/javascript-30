@@ -17,6 +17,7 @@ body {
 .panels {
   min-height: 100vh;
   overflow: hidden;
+  display: flex;
 }
 
 .panel {
@@ -34,26 +35,30 @@ body {
   font-size: 20px;
   background-size: cover;
   background-position: center;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .panel1 { 
-  background-image:url(../images/pane1.jpg); 
+  background-image:url(../images/panel1.jpg); 
 }
 
 .panel2 { 
-  background-image:url(../images/pane2.jpg); 
+  background-image:url(../images/panel2.jpg); 
 }
 
 .panel3 {
-  background-image:url(../images/pane3.jpg); 
+  background-image:url(../images/panel3.jpg); 
 }
 
 .panel4 { 
-  background-image:url(../images/pane4.jpg);
+  background-image:url(../images/panel4.jpg);
 }
 
 .panel5 { 
-  background-image:url(../images/pane5.jpg);
+  background-image:url(../images/panel5.jpg);
 }
 
 /* Flex Children */
@@ -61,6 +66,10 @@ body {
   margin: 0;
   width: 100%;
   transition: transform 0.5s;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .panel p {
