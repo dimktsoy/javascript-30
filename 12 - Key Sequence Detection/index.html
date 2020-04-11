@@ -7,6 +7,18 @@
 </head>
 <body>
 <script>
+  const keysPressed = [];
+  const secretWord = 'pika';
+
+  window.addEventListener('keyup', (e) => {
+    keysPressed.push(e.key);
+    keysPressed.splice(-keysPressed.length - 1, keysPressed.length - secretWord.length);
+
+    if (keysPressed.join('').includes(secretWord)) {
+      console.log('pika pika!');
+      cornify_add();
+    }
+  });
 </script>
 </body>
 </html>
