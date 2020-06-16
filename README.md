@@ -2,3 +2,36 @@
 # JavaScript-30
 
 30 Day Vanilla JS Challenge
+
+View demos:
+
+01. [JavaScript Drum Kit](https://dimktsoy.github.io/javascript-30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+02. [JS and CSS Clock](https://dimktsoy.github.io/javascript-30/02%20-%20JS%20and%20CSS%20Clock/index.html)
+03. [CSS Variables](https://dimktsoy.github.io/javascript-30/03%20-%20CSS%20Variables/index.html)
+04. [Array Cardio Day 1](https://dimktsoy.github.io/javascript-30/04%20-%20Array%20Cardio%20Day%201/index.html)
+05. [Flex Panel Gallery](https://dimktsoy.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/index.html)
+06. [Type Ahead](https://dimktsoy.github.io/javascript-30/06%20-%20Type%20Ahead/index.html)
+07. [Array Cardio Day 2](https://dimktsoy.github.io/javascript-30/07%20-%20Array%20Cardio%20Day%202/index.html)
+08. [Fun with HTML5 Canvas](https://dimktsoy.github.io/javascript-30/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
+09. [Dev Tools Domination](https://dimktsoy.github.io/javascript-30/09%20-%20Dev%20Tools%20Domination/index.html)
+10. [Hold Shift and Check Checkboxes](https://dimktsoy.github.io/javascript-30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
+11. [Custom Video Player](https://dimktsoy.github.io/javascript-30/11%20-%20Custom%20Video%20Player/index.html)
+12. [Key Sequence Detection](https://dimktsoy.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/index.html)
+13. [Slide in on Scroll](https://dimktsoy.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/index.html)
+14. [JavaScript References VS Copying](https://dimktsoy.github.io/javascript-30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)
+15. [LocalStorage](https://dimktsoy.github.io/javascript-30/15%20-%20LocalStorage/index.html)
+16. [Mouse Move Shadow](https://dimktsoy.github.io/javascript-30/16%20-%20Mouse%20Move%20Shadow/index.html)
+17. [Sort Without Articles](https://dimktsoy.github.io/javascript-30/17%20-%20Sort%20Without%20Articles/index.html)
+18. [Adding Up Times with Reduce](https://dimktsoy.github.io/javascript-30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html)
+19. [Webcam Fun](https://dimktsoy.github.io/javascript-30/19%20-%20Webcam%20Fun/index.html)
+20. [Speech Detection](https://dimktsoy.github.io/javascript-30/20%20-%20Speech%20Detection/index.html)
+21. [Geolocation](https://dimktsoy.github.io/javascript-30/21%20-%20Geolocation/index.html)
+22. [Follow Along Link Highlighter](https://dimktsoy.github.io/javascript-30/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
+23. [Speech Synthesis](https://dimktsoy.github.io/javascript-30/23%20-%20Speech%20Synthesis/index.html)
+24. [Sticky Nav](https://dimktsoy.github.io/javascript-30/24%20-%20Sticky%20Nav/index.html)
+25. [Event Capture, Propagation, Bubbling and Once](https://dimktsoy.github.io/javascript-30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/index.html)
+26. [Stripe Follow Along Nav](https://dimktsoy.github.io/javascript-30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
+27. [Click and Drag](https://dimktsoy.github.io/javascript-30/27%20-%20Click%20and%20Drag/index.html)
+28. [Video Speed Controller](https://dimktsoy.github.io/javascript-30/28%20-%20Video%20Speed%20Controller/index.html)
+29. [Countdown Timer](https://dimktsoy.github.io/javascript-30/29%20-%20Countdown%20Timer/index.html)
+30. [Whack A Mole](https://dimktsoy.github.io/javascript-30/30%20-%20Whack%20A%20Mole/index.html)
